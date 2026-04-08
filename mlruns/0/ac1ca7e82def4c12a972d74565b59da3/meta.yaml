@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ac1ca7e82def4c12a972d74565b59da3/artifacts
+end_time: 1775637671327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac1ca7e82def4c12a972d74565b59da3
+run_name: nimble-steed-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775637670301
+status: 3
+tags: []
+user_id: anura

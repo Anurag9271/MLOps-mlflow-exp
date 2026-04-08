@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/abd01789184748d7bd007d253e1f9b54/artifacts
+end_time: 1775626269750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abd01789184748d7bd007d253e1f9b54
+run_name: ambitious-cat-595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775626269644
+status: 3
+tags: []
+user_id: anura

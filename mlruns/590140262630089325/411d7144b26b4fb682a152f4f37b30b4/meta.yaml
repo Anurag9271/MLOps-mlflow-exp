@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/590140262630089325/411d7144b26b4fb682a152f4f37b30b4/artifacts
+end_time: 1775637861251
+entry_point_name: ''
+experiment_id: '590140262630089325'
+lifecycle_stage: active
+run_id: 411d7144b26b4fb682a152f4f37b30b4
+run_name: illustrious-grub-543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775637860511
+status: 3
+tags: []
+user_id: anura

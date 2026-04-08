@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/987b7db703c6474d8537e2605e2949a2/artifacts
+end_time: 1775626758369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 987b7db703c6474d8537e2605e2949a2
+run_name: valuable-horse-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775626758272
+status: 3
+tags: []
+user_id: anura
